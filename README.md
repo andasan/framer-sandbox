@@ -1,2 +1,2 @@
 # Frame Sandbox
-Application is bootstrapped with React and Frame Motion.
+Application is bootstrapped with React and Framer Motion.
